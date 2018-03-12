@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SomethingYeah</key>
+	<string>hihi</string>
+	<key>happinessFish</key>
+	<integer>0</integer>
+	<key>happinessCat</key>
+	<integer>50</integer>
+	<key>happinessDog</key>
+	<integer>0</integer>
+	<key>happinessBunny</key>
+	<integer>0</integer>
+	<key>happinessBird</key>
+	<integer>0</integer>
+	<key>foodLevelCat</key>
+	<integer>50</integer>
+	<key>foodLevelDog</key>
+	<integer>50</integer>
+	<key>foodLevelBird</key>
+	<integer>50</integer>
+	<key>foodLevelFish</key>
+	<integer>50</integer>
+	<key>foodLevelBunny</key>
+	<integer>50</integer>
+</dict>
+</plist>
